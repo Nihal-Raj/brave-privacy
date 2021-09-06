@@ -16,7 +16,7 @@ Steps:
 
 These all will give you the most control for your privacy.
 
-# Other Important Implementation
+# Other Important Implementations
 
 1. Don't enable 'Sync'.
 2. Don't enable 'Rewards'.
