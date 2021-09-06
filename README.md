@@ -24,5 +24,5 @@ These will give you the most control for your privacy.
 # Extensions
 
 1. [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) for blocking trackers which Brave didn't bllocked.
-2. [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) to automatically upgrade to the HTTPS version of sites (enable `Encrypt All Sites Eligible is ON`).
+2. [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) to automatically upgrade to the HTTPS version of sites, which Brave doesn't upgrades (enable `Encrypt All Sites Eligible is ON`).
 3. [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) for blocking Content Delievery Networks.
