@@ -20,6 +20,7 @@ These will give you the most control for your privacy.
 
 1. Don't enable 'Sync'.
 2. Don't enable 'Rewards'.
+3. Don't enable 'Brave Today'. 
 
 # Extensions
 
