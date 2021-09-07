@@ -31,5 +31,6 @@ These all will give you the most control for your privacy.
 # Why Not Any Other Web Browser?
 
 Great question! You may think for 'Hardened Firefox', but Firefox is really insecure.
+
 See this 👉 https://nihal247.github.io/firefox's-insecurity
 Brave is the closest web browser to both privacy and security. 
