@@ -5,7 +5,7 @@ Steps:
 1. Click on the 'Hamburger menu'. ![Screenshot (13)](https://user-images.githubusercontent.com/80682093/132233765-59e71737-4c82-432e-9b34-06259a763c23.png)
 2. Go to 'Settings'.
 3. Under 'Get started' < 'On startup', select `Open the New Tab page`.
-4. Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Aggressive` too.
+4. Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
 5. Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
 6. Under 'Privacy and security', disable `Automatically send daily usage ping to Brave` and `Help improve Brave's features and performance`.
 7. Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything.
