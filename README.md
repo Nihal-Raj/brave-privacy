@@ -6,7 +6,7 @@ Steps:
 2. Go to 'Settings'.
 3. Under 'Get started' < 'On startup', select `Open the New Tab page`.
 4. Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Aggressive` too.
-5. Under 'Privacy and security' < 'WebRTC IP handling policy, select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
+5. Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
 6. Under 'Privacy and security', disable `Automatically send daily usage ping to Brave` and `Help improve Brave's features and performance`.
 7. Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything.
 8. Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
