@@ -1,4 +1,6 @@
 # Brave Browser Privacy
+![Brave stable](https://badgen.net/badge/Brave/GPLv3/orange)
+
 Makes Brave Browser More Private & Secure!
 
 Steps:
