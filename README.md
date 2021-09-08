@@ -37,3 +37,9 @@ Great question! You may think for 'Hardened Firefox', but Firefox is really inse
 See this 👉 https://nihal247.github.io/firefox's-insecurity
 
 Brave is the closest web browser to both privacy and security. 
+
+# Others
+
+A research study analyzing browser privacy by Professor Douglas J. Leith of the University of Dublin reported that Brave had the highest level of privacy of the browsers tested. Brave did not have, "any use of identifiers allowing tracking of IP address overtime, and no sharing of the details of web pages visited with backend servers."
+
+Complete PDF of the study 👉 https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
