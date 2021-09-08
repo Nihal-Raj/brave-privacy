@@ -40,6 +40,6 @@ Brave is the closest web browser to both privacy and security.
 
 # Others
 
-A research study analyzing browser privacy by Professor Douglas J. Leith of the University of Dublin reported that Brave had the highest level of privacy of the browsers tested. Brave did not have, "any use of identifiers allowing tracking of IP address overtime, and no sharing of the details of web pages visited with backend servers." The test was taken on the default settings of all the web browsers.
+A research study analyzing browser privacy by Professor Douglas J. Leith of the University of Dublin reported that Brave had the highest level of privacy of the browsers tested. Brave did not have, "any use of identifiers allowing tracking of IP address overtime, and no sharing of the details of web pages visited with backend servers." The test was conducted on the default settings of all the tested web browsers.
 
 Complete PDF of the study 👉 https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
