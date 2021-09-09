@@ -14,7 +14,7 @@ Steps:
 8. Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
 9. Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, this prevents your ISP from keeping an eye on you (it's the fastest DNS, you may select any other).
 10. Under 'Search engine' select `DuckDuckGo` (or any other privacy-friendly search engine).
-11. Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a password manager for this purpose).
+11. Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
 These all will give you the most control for your privacy.
 
