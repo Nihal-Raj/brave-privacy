@@ -23,7 +23,7 @@
 
 **8.** Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
 
-**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, this prevents your ISP from keeping an eye on you (it's the fastest DNS, you may select any other).
+**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully. (it's the fastest DNS, you may select any other).
 
 **10.** Under 'Search engine' select `DuckDuckGo` (or any other privacy-friendly search engine).
 
