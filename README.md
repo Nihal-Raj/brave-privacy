@@ -20,6 +20,11 @@ Steps:
 
 These all will give you the most control for your privacy.
 
+# Fingerprint
+
+You must be asking wouldn't changing these settings will make your browser fingerprint unique? And I expect you to ask this question, but Brave has already solved this problem by 'Fingerprint Randomization', 
+which changes your browser fingerprint periodically. So you can have full assurance that you wouldn't be uniquely identified or tracked.
+
 # Other Important Implementations
 
 1. Don't enable 'Sync'.
