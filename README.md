@@ -25,7 +25,7 @@
 
 **9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
 
-**10.** Under 'Search engine' select `DuckDuckGo` (or any other privacy-friendly search engine).
+**10.** Under 'Search engine' select `DuckDuckGo` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
 **11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
