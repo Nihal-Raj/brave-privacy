@@ -27,7 +27,7 @@
 
 **10.** Under 'Search engine' select `DuckDuckGo` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
-**11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
+**11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate [password manager](https://restoreprivacy.com/password-manager/best/) for this purpose).
 
 These all will give you the most control for your privacy.
 
