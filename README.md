@@ -1,7 +1,7 @@
 # Brave Browser Privacy
 ![Brave stable](https://badgen.net/badge/Brave/GPLv3/orange?icon=github)
 
-![Screenshot (79)](https://user-images.githubusercontent.com/80682093/133602005-d7ac9c0c-f4c2-4c94-bc27-389eac7dfc7e.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/80682093/133772923-c8e0ba30-ea04-45f3-b23b-91f52ad68c30.png)
 
 **OBJECTIVE**: Make Brave Browser More Private & Secure!
 
