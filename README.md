@@ -5,6 +5,8 @@
 
 **OBJECTIVE**: Make Brave Browser More Private & Secure!
 
+_**Note**: This guide is made for the desktop version of Brave._ 
+
 # Steps:
 
 **1.** Open 'Brave', click on the 'Hamburger menu'. ![Screenshot (13)](https://user-images.githubusercontent.com/80682093/132233765-59e71737-4c82-432e-9b34-06259a763c23.png)
