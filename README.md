@@ -5,7 +5,7 @@
 
 **OBJECTIVE**: Make Brave Browser More Private & Secure!
 
-_**Note**: This guide is made for the desktop version of Brave._ 
+_📝**Note**: This guide is made for the desktop version of Brave._ 
 
 # Steps:
 
