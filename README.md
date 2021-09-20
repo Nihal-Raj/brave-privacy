@@ -61,6 +61,10 @@ See this 👉 https://nihal247.github.io/firefox's-insecurity. Apart from the in
 
 Brave is the closest web browser to both privacy and security. 
 
+# Is It Necessary?
+
+No. Brave works well-enough out of the box. In fact, most browsers work best when not-configured to avoid fingerprinting. Even Apple and The Tor Project don't recommend changing any settings in Safari and Tor Browser respectively. I don't necessarily recommend changing these settings or installing any extensions, because on Brave you're already good to go with the default settings!
+
 # Others
 
 A research study analyzing browser privacy by Professor Douglas J. Leith of the University of Dublin reported that Brave had the highest level of privacy of the browsers tested. Brave did not have, "any use of identifiers allowing tracking of IP address overtime, and no sharing of the details of web pages visited with backend servers." The test was conducted on the default settings of all the tested web browsers.
