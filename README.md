@@ -63,7 +63,7 @@ Brave is the closest web browser to both privacy and security.
 
 # Is It Necessary?
 
-No. Brave works well-enough out of the box. In fact, most browsers work best when not-configured to avoid fingerprinting. Even Apple and The Tor Project don't recommend changing any settings in Safari and Tor Browser respectively. I don't necessarily recommend changing these settings or installing any extensions, because on Brave you're already good to go with the default settings!
+No. Brave works well-enough out of the box. In fact, most browsers work best when not-configured to avoid fingerprinting. Even Apple and The Tor Project don't recommend changing any settings in Safari and Tor Browser respectively. I don't necessarily recommend changing these settings or even installing any extensions, because on Brave you're already good to go with the default settings!
 
 # Others
 
