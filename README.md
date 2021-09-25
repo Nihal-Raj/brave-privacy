@@ -57,7 +57,7 @@ You must be asking wouldn't changing these settings will make your browser finge
 
 Great question! You may think for 'Hardened Firefox', but Firefox is really insecure.
 
-See this 👉 https://madaidans-insecurities.github.io/firefox-chromium. Apart from the insecurity, tweaking a lot of settings to 'harden' it, just makes you stand out in the crowd by making your browser fingerprint more unique. Hence, drastically reducing privacy!
+See this 👉 https://madaidans-insecurities.github.io/firefox-chromium.
 
 Brave is the closest web browser to both privacy and security. 
 
