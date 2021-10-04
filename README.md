@@ -37,6 +37,8 @@ These all will give you the most control for your privacy.
 
 You must be asking wouldn't changing these settings will make your browser fingerprint unique? And I expect you to ask this question, but Brave has already solved this problem by '[Fingerprint Randomization](https://brave.com/privacy-updates-3/)', which changes your browser fingerprint periodically. So you can be assured that you wouldn't be uniquely identified or tracked.
 
+For additional information, take a look at [Brave's Fingerprinting Protections](https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections).
+
 # Other Important Implementations
 
 **1.** Don't enable 'Sync'.
