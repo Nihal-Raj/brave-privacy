@@ -3,7 +3,7 @@
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/80682093/133772923-c8e0ba30-ea04-45f3-b23b-91f52ad68c30.png)
 
-**OBJECTIVE**: Make Brave Browser More Private & Secure!
+**OBJECTIVE**: Make Brave Browser More Private!
 
 _📝 **Note**: This guide is made for the desktop version of Brave._ 
 
