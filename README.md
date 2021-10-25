@@ -5,7 +5,13 @@
 
 **OBJECTIVE**: Make Brave Browser More Private!
 
-_📝 **Note**: This guide is made for the desktop version of Brave._ 
+_📝 **Note**: This guide is made for the desktop version of Brave._
+
+_⚠️ **Warning**: This guide is not necessary to follow, you should use Brave with the default settings (as I do!), this is to implement while needing additional privacy._
+
+Again, before you start, I would highly recommend using Brave at default settings, so feel free to skip it, if you're haapy with the default settings!
+
+![IHighlyRecommendItMitchellMoffitGIF](https://user-images.githubusercontent.com/80682093/138702658-cb3e10be-1792-4b80-a930-f83d96d2638e.gif)
 
 # Steps:
 
