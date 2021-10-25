@@ -45,7 +45,7 @@ For additional information, take a look at [Brave's Fingerprinting Protections](
 
 **2.** Don't enable 'Rewards'.
 
-**3.** Don't enable 'Brave Today'. 
+**3.** Don't enable 'Brave News'. 
 
 # Extensions
 
