@@ -31,11 +31,11 @@ Again, before you start, I would highly recommend using Brave at default setting
 
 **8.** Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
 
-**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `[Cloudflare (1.1.1.1)](https://www.cloudflare.com/dns/)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
+**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
 
 For a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns)
 
-**10.** Under 'Search engine' select `[DuckDuckGo](https://duckduckgo.com/)` or `[Startpage](https://www.startpage.com/)` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
+**10.** Under 'Search engine' select `DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
 **11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
