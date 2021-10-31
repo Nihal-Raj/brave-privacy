@@ -9,6 +9,8 @@ _📝 **Note**: This guide is made for the desktop version of Brave._
 
 _⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings (as I do!), this is to implement while needing additional privacy._
 
+_💡 **Tip**: You can create two profiles in Brave, one with the default settings and the other with this guide's mentioned settings!_
+
 # Steps:
 
 **1.** Open 'Brave', click on the 'Hamburger menu'. ![Screenshot (13)](https://user-images.githubusercontent.com/80682093/132233765-59e71737-4c82-432e-9b34-06259a763c23.png)
