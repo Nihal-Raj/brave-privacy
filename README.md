@@ -31,9 +31,11 @@ Again, before you start, I would highly recommend using Brave at default setting
 
 **8.** Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
 
-**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
+**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `[Cloudflare (1.1.1.1)](https://www.cloudflare.com/dns/)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
 
-**10.** Under 'Search engine' select `DuckDuckGo` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
+For a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns)
+
+**10.** Under 'Search engine' select `[DuckDuckGo](https://duckduckgo.com/)` or `[Startpage](https://www.startpage.com/)` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
 **11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
@@ -55,11 +57,11 @@ For additional information, take a look at [Brave's Fingerprinting Protections](
 
 # Extensions
 
-**1.** [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) for blocking trackers which Brave didn't blocked.
+**1.** [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) is a wide spectrum efficient blocker, that can be used to block JavaScript, ads, WebRTC leaks, mitigate fingerprinting and much more.
 
-**2.** [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) to automatically upgrade to the HTTPS version of sites, which Brave doesn't upgrades (enable `Encrypt All Sites Eligible is ON`).
+**2.** [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) for blocking Content Delievery Networks.
 
-**3.** [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) for blocking Content Delievery Networks.
+_📝 **Note**: While using a VPN, Decentraleyes is not necessary._
 
 # Why Not Any Other Web Browser?
 
