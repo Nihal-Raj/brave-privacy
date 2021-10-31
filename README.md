@@ -57,7 +57,7 @@ For additional information, take a look at [Brave's Fingerprinting Protections](
 
 # Extensions
 
-**1.** [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) is a wide spectrum efficient blocker, that can be used to block JavaScript, trackers, ads, WebRTC leaks, mitigate fingerprinting and much more.
+**1.** [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) is a wide spectrum efficient blocker, that can be used to block JavaScript, trackers, ads, WebRTC leaks, mitigate fingerprinting and more.
 
 **2.** [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) for blocking Content Delievery Networks.
 
