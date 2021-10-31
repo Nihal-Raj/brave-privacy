@@ -63,7 +63,7 @@ _📝 **Note**: While using a VPN, Decentraleyes is not necessary._
 
 # Why Not Any Other Web Browser?
 
-Great question! You may think for 'Hardened Firefox', but Firefox is really insecure.
+Great question! You may think for 'Hardened Firefox', but Firefox is really insecure. Apart from this, hardening has fingerprinting drawbacks. 
 
 See this 👉 https://madaidans-insecurities.github.io/firefox-chromium.
 
