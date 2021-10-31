@@ -33,7 +33,7 @@ Again, before you start, I would highly recommend using Brave at default setting
 
 **9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
 
-For a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns)
+🙈 See, for a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns)
 
 **10.** Under 'Search engine' select `DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
