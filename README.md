@@ -7,7 +7,7 @@
 
 _📝 **Note**: This guide is made for the desktop version of Brave._
 
-_⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings, this is to implement while needing additional privacy._
+_⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings (as I do!), this is to implement while needing additional privacy._
 
 # Steps:
 
