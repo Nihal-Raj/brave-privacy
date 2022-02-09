@@ -1,19 +1,19 @@
 # Brave Browser Privacy
 ![Brave stable](https://badgen.net/badge/Brave/GPLv3/orange?icon=github)
 
-![Screenshot (15)](https://user-images.githubusercontent.com/80682093/139572517-f4ae5246-a46d-4068-a52a-eea62a298c6d.png)
+![Screenshot (288)](https://user-images.githubusercontent.com/80682093/153224216-82d3c580-e659-419a-a101-52ff899cb2f9.png)
 
 **OBJECTIVE**: Make Brave Browser More Private!
 
 _📝 **Note**: This guide is made for the desktop version of Brave._
 
-_⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings (as I do!), this is to implement while needing additional privacy._
+_⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings, this is to implement while needing additional privacy._
 
 _💡 **Tip**: You can create two profiles in Brave, one with the default settings and the other with this guide's mentioned settings!_
 
 # Steps:
 
-**1.** Open 'Brave', click on the 'Hamburger menu'. ![Screenshot (13)](https://user-images.githubusercontent.com/80682093/132233765-59e71737-4c82-432e-9b34-06259a763c23.png)
+**1.** Open 'Brave', click on the 'Hamburger menu'. ![Screenshot 2022-02-09 201415](https://user-images.githubusercontent.com/80682093/153224634-6215009f-f4ef-4b9d-b67b-54ee80f60b5d.png)
 
 **2.** Go to 'Settings'.
 
