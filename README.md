@@ -1,5 +1,5 @@
 # Brave Browser Privacy
-![Brave stable](https://badgen.net/badge/Brave/GPLv3/orange?icon=github)
+![Brave stable](https://badgen.net/badge/Brave/MIT/orange?icon=github)
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/80682093/153224216-82d3c580-e659-419a-a101-52ff899cb2f9.png)
 
