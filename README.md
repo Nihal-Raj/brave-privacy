@@ -57,10 +57,6 @@ For additional information, take a look at [Brave's Fingerprinting Protections](
 
 **1.** [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) is a wide spectrum efficient blocker, that can be used to block JavaScript, trackers, ads, WebRTC leaks, mitigate fingerprinting and more.
 
-**2.** [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) for blocking Content Delievery Networks.
-
-_📝 **Note**: While using a VPN, Decentraleyes is not necessary._
-
 # Why Not Any Other Web Browser?
 
 Great question! You may think for 'Hardened Firefox', but Firefox is really insecure. Apart from this, hardening has fingerprinting drawbacks. 
