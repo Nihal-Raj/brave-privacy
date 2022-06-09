@@ -13,9 +13,9 @@ _💡 **Tip**: You can create two profiles in Brave, one with the default settin
 
 # Steps:
 
-- Open 'Brave', click on the 'Hamburger menu'. ![Screenshot 2022-02-09 201415](https://user-images.githubusercontent.com/80682093/153224634-6215009f-f4ef-4b9d-b67b-54ee80f60b5d.png)
+- Open Brave, click on the Hamburger menu. ![Screenshot 2022-02-09 201415](https://user-images.githubusercontent.com/80682093/153224634-6215009f-f4ef-4b9d-b67b-54ee80f60b5d.png)
 
-- Go to 'Settings'.
+- Go to Settings.
 
 - Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
 
