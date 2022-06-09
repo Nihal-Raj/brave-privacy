@@ -25,23 +25,25 @@ _💡 **Tip**: You can create two profiles in Brave, one with the default settin
 
 - Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
 
-- Under 'Privacy and security', disable `Automatically send daily usage ping to Brave` and `Help improve Brave's features and performance`.
+- Under 'Privacy and security', disable `Allow privacy-preserving product analytics (P3A)` and `Automatically send daily usage ping to Brave`.
 
-- Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything.
+- Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything. (This will log you out from websites)
 
-- Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
+- Under 'Privacy and security' < 'Cookies and other site data', `Send a "Do Not Track" request with your browsing traffic` on. 
 
-- Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
+**Note**: Most of the sites don't respect this setting.
 
-**Tip**: For a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns).
+- Under 'Privacy and security' < 'Security' < 'Use secure DNS', select your DNS of choice.
 
-- Under 'Search engine' select `DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
+**Tip**: For a more privacy friendly DNS choice, select Quad9 from the options or look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns).
+
+- Under 'Search engine' select `Brave``, DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
 
 - Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
 These all will give you the most control for your privacy.
 
-# Fingerprint
+# Fingerprinting
 
 You must be asking wouldn't changing these settings will make your browser fingerprint unique? And I expect you to ask this question, but Brave has already solved this problem by [Fingerprint Randomization](https://brave.com/privacy-updates-3/), which makes you appear differently to websites over Brave restart. So you can be assured that you wouldn't be uniquely identified or tracked.
 
