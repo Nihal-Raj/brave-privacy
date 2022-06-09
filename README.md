@@ -17,8 +17,6 @@ _💡 **Tip**: You can create two profiles in Brave, one with the default settin
 
 - Go to 'Settings'.
 
-- Under 'Get started' < 'On startup', select `Open the New Tab page`.
-
 - Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
 
 - Under 'Social media blocking', disable `Allow Google login buttons on third party sites`, `Allow Facebook logins and embedded posts` and `Allow Twitter embedded tweets`.
