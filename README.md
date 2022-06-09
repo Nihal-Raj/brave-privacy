@@ -5,37 +5,41 @@
 
 **OBJECTIVE**: Make Brave Browser More Private!
 
-_📝 **Note**: This guide is made for the desktop version of Brave._
+_**Note**: This guide is made for the desktop version of Brave._
 
-_⚠️ **Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings, this is to implement while needing additional privacy._
+_**Warning**: This guide is not necessary to follow, Brave is already configured for privacy by default, you may use Brave with the default settings, this is to implement while needing additional privacy._
 
 _💡 **Tip**: You can create two profiles in Brave, one with the default settings and the other with this guide's mentioned settings!_
 
 # Steps:
 
-**1.** Open 'Brave', click on the 'Hamburger menu'. ![Screenshot 2022-02-09 201415](https://user-images.githubusercontent.com/80682093/153224634-6215009f-f4ef-4b9d-b67b-54ee80f60b5d.png)
+- Open 'Brave', click on the 'Hamburger menu'. ![Screenshot 2022-02-09 201415](https://user-images.githubusercontent.com/80682093/153224634-6215009f-f4ef-4b9d-b67b-54ee80f60b5d.png)
 
-**2.** Go to 'Settings'.
+- Go to 'Settings'.
 
-**3.** Under 'Get started' < 'On startup', select `Open the New Tab page`.
+- Under 'Get started' < 'On startup', select `Open the New Tab page`.
 
-**4.** Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
+- Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
 
-**5.** Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
+- Under 'Social media blocking', disable `Allow Google login buttons on third party sites`, `Allow Facebook logins and embedded posts` and `Allow Twitter embedded tweets`.
 
-**6.** Under 'Privacy and security', disable `Automatically send daily usage ping to Brave` and `Help improve Brave's features and performance`.
+**Caution**: This will break the ability of third party sites to log in with Google and Facebook.
 
-**7.** Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything.
+- Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
 
-**8.** Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
+- Under 'Privacy and security', disable `Automatically send daily usage ping to Brave` and `Help improve Brave's features and performance`.
 
-**9.** Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
+- Under 'Privacy and security' < 'Clear browsing data', select `On exit`, and select everything.
 
-🙈 See, for a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns).
+- Under 'Privacy and security' < 'Cookies and other site data', turn `Clear cookies and site data when you close all windows` and `Send a "Do Not Track" request with your browsing traffic` on.
 
-**10.** Under 'Search engine' select `DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
+- Under 'Privacy and security' < 'Security' < 'Use secure DNS', select `with` < `Cloudflare (1.1.1.1)`, makes difficult for your ISP from keeping an eye on you, but doesn't stops it fully (it's the fastest DNS, you may select any other).
 
-**11.** Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
+**Tip**: For a more privacy friendly DNS choice, look at [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) or [ControlD](https://controld.com/free-dns).
+
+- Under 'Search engine' select `DuckDuckGo` or `Startpage` (or any other [privacy-friendly](https://itsfoss.com/privacy-search-engines/) search engine).
+
+- Under 'Additional settings' < 'Autofill' < 'Passwords', turn off `Offer to save passwords` and `Auto Sign-in` (use a separate password manager for this purpose).
 
 These all will give you the most control for your privacy.
 
@@ -47,11 +51,11 @@ For additional information, take a look at [Brave's Fingerprinting Protections](
 
 # Other Important Implementations
 
-**1.** Don't enable 'Sync'.
+- Don't enable 'Sync'.
 
-**2.** Don't enable 'Rewards'.
+- Don't enable 'Rewards'.
 
-**3.** Don't enable 'Brave News'. 
+- Don't enable 'Brave News'. 
 
 # Extensions
 
