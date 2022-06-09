@@ -21,7 +21,7 @@ _💡 **Tip**: You can create two profiles in Brave, one with the default settin
 
 - Under 'Social media blocking', disable `Allow Google login buttons on third party sites`, `Allow Facebook logins and embedded posts` and `Allow Twitter embedded tweets`.
 
-**Caution**: This will break the ability of third party sites to log in with Google and Facebook.
+**Caution**: This will break the ability of third party sites to log in with Google or Facebook accoount.
 
 - Under 'Privacy and security' < 'WebRTC IP handling policy', select `Disable non-proxified UDP` (disables the possibility to leak your IP address even when you're using a VPN).
 
