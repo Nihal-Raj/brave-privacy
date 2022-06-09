@@ -43,7 +43,7 @@ These all will give you the most control for your privacy.
 
 # Fingerprint
 
-You must be asking wouldn't changing these settings will make your browser fingerprint unique? And I expect you to ask this question, but Brave has already solved this problem by '[Fingerprint Randomization](https://brave.com/privacy-updates-3/)', which makes you appear differently to websites over Brave restart. So you can be assured that you wouldn't be uniquely identified or tracked.
+You must be asking wouldn't changing these settings will make your browser fingerprint unique? And I expect you to ask this question, but Brave has already solved this problem by [Fingerprint Randomization](https://brave.com/privacy-updates-3/), which makes you appear differently to websites over Brave restart. So you can be assured that you wouldn't be uniquely identified or tracked.
 
 For additional information, take a look at [Brave's Fingerprinting Protections](https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections).
 
