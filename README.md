@@ -17,7 +17,7 @@ _💡 **Tip**: You can create two profiles in Brave, one with the default settin
 
 - Go to Settings.
 
-- Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites`.
+- Under 'Shields' < 'Trackers & ads blocking', select `Aggressive` and in 'Fingerprinting blocking', select `Strict, may break sites` and turn on `Prevent sites from fingerprinting me based on my language preferences`, note that this may break fonts and font sizes in some sites.
 
 - Under 'Social media blocking', disable `Allow Google login buttons on third party sites`, `Allow Facebook logins and embedded posts` and `Allow Twitter embedded tweets`.
 
